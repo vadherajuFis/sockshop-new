@@ -1,7 +1,7 @@
 apiVersion: spec.keptn.sh/0.2.0
 kind: "Shipyard"
 metadata:
-  name: "shipyard-sockshop"
+  name: "shipyard-sockshop-0616-01"
 spec:
   stages:
     - name: single-stage
